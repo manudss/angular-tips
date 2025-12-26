@@ -60,7 +60,7 @@ For more details, refer to the [Angular roadmap](https://v21.angular.dev/roadmap
 
 The most impactful features currently deprecated that will be removed in future versions of Angular:
 
-- **Vitest and Web Test Runner support**: set to be removed in v22.
+- **Jest and Web Test Runner support**: set to be removed in v22.
 - **`ngIf`, `ngFor` and `ngSwitch` directives**: set to be removed in v22.
 - **`@angular/animations` package**: set to be removed in v23.
 - **Karma and Jasmine support**: unknown removal date.
